@@ -26,7 +26,31 @@ Currently interning at **IIT Jammu**, **RGIPT DIC** (Cybersecurity — OT/ICS), 
 
  &nbsp;|&nbsp; 🎯 Open to opportunities in Cybersecurity · Data Science · AI
 
+## 💼 Internships & Experience
+### 🔬 Summer Research Intern — Indian Institute of Technology, Jammu
+May 2026 – Present  |  On-site · Jammu & Kashmir, India
 
+Research internship at IIT Jammu focused on applied cybersecurity and emerging threat landscapes.
+
+### 🛡️ Cybersecurity DIC Intern (OT/ICS) — RGIPT
+May 2026 – Present  |  On-site · Jais, Uttar Pradesh
+
+Working on cybersecurity hardening for refinery Operational Technology (OT) and IT/OT convergence environments at Rajiv Gandhi Institute of Petroleum Technology.
+Responsibilities:
+
+Threat modeling for SCADA/DCS systems in refinery infrastructure
+Identifying and mapping attack surfaces in Industrial Control System (ICS) networks
+Evaluating and auditing security controls against IEC 62443 and NIST frameworks
+Analyzing OT/IT network segmentation strategies to reduce lateral movement risk
+
+Domain focus: ICS Security · OT/IT Network Segmentation · SCADA Threat Analysis · Refinery Cybersecurity · Cyber Threat Intelligence (CTI)
+
+### 🔐 Cybersecurity Intern — Aarivya Labs
+May 2026 – Present  |  Remote
+
+Part of the Aarivya Labs Cyber Security Internship Program — a domain-specific, hands-on internship focused on real-world security challenges and industry-standard tooling.
+
+Domain focus: Cyber Threat Intelligence (CTI) · Threat Analysis · Vulnerability Assessment
 
 ---
 
