@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=20C9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%26+Researcher;Post-Quantum+Cryptography+%7C+PQC;OT%2FICS+Security+%7C+SCADA+Defense;Data+Science+%7C+AI+%7C+Full-Stack;IIT+Madras+%2B+RGIPT+Dual+Degree;INTERN:+IIT+Jammu+%7C+RGIPT+%7C+Aarivya+Labs)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=saksham113-ai&color=20c9ff&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Saksham-Shreyans&color=20c9ff&style=flat-square&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saksham_Shreyans-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/saksham-shreyans)
 [![Email](https://img.shields.io/badge/Email-113aksham%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:113aksham@gmail.com)
 
@@ -32,7 +32,7 @@ Currently interning at **IIT Jammu**, **RGIPT DIC** (Cybersecurity — OT/ICS), 
 
 ## 🚀 Featured Projects
 
-### 🛡️ [QuantHunt — Post-Quantum Cryptography Scanner](https://github.com/saksham113-ai/Quanthunt)
+### 🛡️ [QuantHunt — Post-Quantum Cryptography Scanner](https://github.com/Saksham-Shreyans/Quanthunt)
 > **The only student-built PQC readiness intelligence platform of its kind**
 
 A full-stack cybersecurity scanning engine that audits, maps, and secures digital infrastructure against next-generation quantum threats.
@@ -144,11 +144,11 @@ TypeScript hackathon platform with simulated kernel boot sequence, file-explorer
 
 <div align="center">
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham113-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20c9ff&icon_color=a87fff&text_color=8b9ab3)
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Shreyans&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20c9ff&icon_color=a87fff&text_color=8b9ab3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham113-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20c9ff&text_color=8b9ab3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Shreyans&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20c9ff&text_color=8b9ab3)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saksham113-ai&theme=tokyonight&hide_border=true&background=0d1117&ring=20c9ff&fire=a87fff&currStreakLabel=20c9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saksham-Shreyans&theme=tokyonight&hide_border=true&background=0d1117&ring=20c9ff&fire=a87fff&currStreakLabel=20c9ff)](https://git.io/streak-stats)
 
 </div>
 
