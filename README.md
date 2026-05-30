@@ -24,7 +24,7 @@ I work at the intersection of **cybersecurity, data science, and AI** — three 
 
 Currently interning at **IIT Jammu**, **RGIPT DIC** (Cybersecurity — OT/ICS), and **Aarivya Labs** simultaneously. I also compete in algorithmic programming on Codeforces  and regularly solve problems on LeetCode in C, C++, and Python.
 
-📍 Jammu & Kashmir, India &nbsp;|&nbsp; 🎯 Open to opportunities in Cybersecurity · Data Science · AI
+ &nbsp;|&nbsp; 🎯 Open to opportunities in Cybersecurity · Data Science · AI
 
 
 
